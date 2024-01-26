@@ -1,3 +1,0 @@
-C:/Users/zny/Desktop/DataStruProject/cmake-build-debug/CMakeFiles/DataStruProject.dir
-C:/Users/zny/Desktop/DataStruProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/zny/Desktop/DataStruProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
